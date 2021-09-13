@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "204101071_vovelRecognition", "204101071_vovelRecognition\204101071_vovelRecognition.vcxproj", "{6456067C-B5C9-45DD-8606-D9F23730518B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6456067C-B5C9-45DD-8606-D9F23730518B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6456067C-B5C9-45DD-8606-D9F23730518B}.Debug|Win32.Build.0 = Debug|Win32
+		{6456067C-B5C9-45DD-8606-D9F23730518B}.Release|Win32.ActiveCfg = Release|Win32
+		{6456067C-B5C9-45DD-8606-D9F23730518B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
